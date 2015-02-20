@@ -1,0 +1,5 @@
+The goal of the project is to predict what types of US consumers are available in a given metropolitan area. This insight has value to retail companies who are interested to know more about their potential customers.
+
+For the project, publicly available IRS tax return data will utilized and combined with publicly available US Census Bureau data and US Bureau of Labor Statistics.
+
+Based on these combined data sets, the exploratory analysis will be performed and predictions will be made about what type of US consumers are located in a given area.
